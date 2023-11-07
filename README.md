@@ -1,0 +1,2 @@
+# smart-contract
+solidity contract 
