@@ -1,8 +1,6 @@
 // 非同质化代币（NFT）已经在数字世界中掀起了风暴。
 // ERC-721 标准定义了创建这些独特、不可分割代币的规则。
 // 无论你对数字艺术、收藏品还是游戏资产感兴趣，ERC-721 合约是你的首选。
-
-
 // ERC-721 Token Contract
 contract ERC721Token {
     string public name;
